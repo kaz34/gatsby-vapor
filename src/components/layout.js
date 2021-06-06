@@ -46,17 +46,18 @@ class Layout extends Component {
               <li><Link to={`/search`}>Search</Link></li>
               <li>{toggler}</li>
             </ul>
-            <ul className="header-link">
+            {/* <ul className="header-link">
               <li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a></li>
               <li><a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-            </ul>
+            </ul> */}
           </div>
         </div>
         <main>{children}</main>
-        <footer className="footer-copyright">
-          © {new Date().getFullYear()} {title}, Built with
+        <footer className="footer-copyright">© 
+        {new Date().getFullYear()} {title}
+          {/* , Built with
           {` `}
-          <a className="footer-gatsby" href="https://www.gatsbyjs.org">Gatsby</a>
+          <a className="footer-gatsby" href="https://www.gatsbyjs.org">Gatsby</a> */}
         </footer>
       </div>
     )
