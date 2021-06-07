@@ -1,6 +1,6 @@
 ---
 title: Go tutorials I will do
-date: "2020-06-08"
+date: "2021-06-08"
 tags: [go, tutorial]
 description: "frequently update"
 thumbnail: ./go.jpeg
