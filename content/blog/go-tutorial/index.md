@@ -3,7 +3,7 @@ title: Go tutorials I will do
 date: "2020-06-08"
 tags: [go, tutorial]
 description: "frequently update"
-thumbnail: ./salty_egg.jpg
+thumbnail: ./go.jpeg
 ---
 
 Mercari Tutorial<br>
