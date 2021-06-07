@@ -1,8 +1,10 @@
 ---
-title:TypeScriptを学び始めた理由
+title: TypeScriptを学び始めた理由
 date: "2021-06-07"
 tags: [typescript,javascript]
 ---
+
+
 
 # 経緯
 Vueチュートリアルやる<br>
