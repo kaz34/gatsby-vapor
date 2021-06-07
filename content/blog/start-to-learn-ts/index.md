@@ -1,7 +1,7 @@
 ---
 title: TypeScriptを学び始めた理由
 date: "2021-06-07"
-tags: [typescript,javascript]
+tags: [TypeScript,JavaScript]
 ---
 
 
