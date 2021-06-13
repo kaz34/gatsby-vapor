@@ -40,12 +40,16 @@ class Layout extends Component {
           >
             {title}
           </Link>
+
+          {/* ここがnavbar */}
           <div className="nav-container">
             <ul className="header-nav">
               <li id="header-nav-first"><Link to={`/tags`}>Tags</Link></li>
-              <li><Link to={`/search`}>Search</Link></li>
-              <li>{toggler}</li>
+              {/* <li><Link to={`/search`}>Search</Link></li> */}
+              {/* <li>{toggler}</li> */}
+              <li><a href="https://kazumawada.hashnode.dev/" target="_blank">hashnode</a></li>
             </ul>
+
             {/* <ul className="header-link">
               <li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a></li>
               <li><a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>

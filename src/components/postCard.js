@@ -38,8 +38,10 @@ class PostCard extends Component {
               </svg>
             </Link>
           </div> */}
-        </div>
+        </div> 
+        {/* <hr /> */}
       </div>
+     
     );
   }
 }
